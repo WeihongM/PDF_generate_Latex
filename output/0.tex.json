@@ -1,0 +1,90 @@
+{
+    "filename": "./output/0.tex",
+    "structure": [
+        {
+            "content": "\\item {\\color{cyan} bradley baptist church sign pastor aaron leggett bradley baptist church sanctuary bradley is town in lafayette county arkansas united sta} \\item {\\color{cyan} tes the population was at the census geography bradley is located at according to the united states census bureau the city has total area of all land demographics as of the census of there} \\item {\\color{cyan}  were people households and families residing in the city the population density was people per square mile km there were housing units a} ",
+            "id": "list0",
+            "path": "",
+            "rect": [
+                82.43485291420588,
+                212.43485291420586,
+                72.43485291420588,
+                350.7274250402168
+            ],
+            "type": "list"
+        },
+        {
+            "content": "",
+            "id": "figure0",
+            "path": "data/Images/2007_000783.jpg",
+            "rect": [
+                222.43485291420586,
+                392.86485291420587,
+                117.98113897721134,
+                305.1811389772114
+            ],
+            "type": "figure"
+        },
+        {
+            "content": "",
+            "id": "figure1",
+            "path": "data/Images/2007_000783.jpg",
+            "rect": [
+                402.86485291420587,
+                552.1731862475392,
+                129.58113897721137,
+                293.58113897721137
+            ],
+            "type": "figure"
+        },
+        {
+            "content": "nelson county is county located in the commonwealth of virginia as of the census the population was its county seat is lovingston nelson county is part of the charlottesville va metropolitan statistical area nelson county is home to wintergreen resort local ski area swannanoa mansion and is the location of walton mountain made famous by the television show the waltons nelson county is also home to ten wineries five craft breweries two cideries two distilleries many fruit orchards and crabtree falls history at the time the english began settling virginia in the the inhabitants of what is now nelson ",
+            "id": "text0",
+            "path": "",
+            "rect": [
+                562.1731862475392,
+                683.1731862475392,
+                72.43485291420588,
+                350.7274250402168
+            ],
+            "type": "text"
+        },
+        {
+            "content": "\\item {\\color{black} the alternatively spelled the seventy sevens or the is an amer} \\item {\\color{black} ican rock band consisting of micha} ",
+            "id": "list1",
+            "path": "",
+            "rect": [
+                82.43485291420588,
+                147.43485291420586,
+                363.23823703440746,
+                502.38452309741297
+            ],
+            "type": "list"
+        },
+        {
+            "content": "",
+            "id": "figure2",
+            "path": "data/Images/2007_000783.jpg",
+            "rect": [
+                157.43485291420586,
+                252.84651958087255,
+                380.4113800659102,
+                485.2113800659102
+            ],
+            "type": "figure"
+        },
+        {
+            "content": "saône et loire arpitan sona et lêre is french department named after the saône and the loire rivers between which it lies history when it was formed during the french revolution as of march in fulfillment of the law of december the new department combined parts of the provinces of southern burgundy and bresse uniting lands that had no previous common history nor political unity and which have no true geographical unity thus its history is that of burgundy and is especially to be found in the local histories of autun mâcon chalon sur saône charolles and louhans geography saône et loire is the seventh largest department of france it is part of the region bourgogne franche comté in the west the department is composed of the hills of the autunois the region around autun in the southwest the charollais and the mâconnais in the south in the centre the department is traversed from north to south by the saône in its wide plain the saône is tributary of the river rhône that joins it at lyon and thus is connected to the mediterranean sea the source of the loire is south of the department in the department of ardèche it then makes its way in the ",
+            "id": "text1",
+            "path": "",
+            "rect": [
+                262.84651958087255,
+                735.8465195808726,
+                363.23823703440746,
+                502.38452309741297
+            ],
+            "type": "text"
+        }
+    ],
+    "type": "Doc"
+}
